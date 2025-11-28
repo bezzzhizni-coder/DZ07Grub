@@ -14,3 +14,4 @@ UEFI Firmware Settings
 > тут пришлось установить гуи
 gor@testsrv2:~$ sudo apt install ubuntu-desktop-minimal -y
 
+[Image alt]
